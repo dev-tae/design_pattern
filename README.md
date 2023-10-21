@@ -22,7 +22,6 @@ This repository explores several design patterns commonly used in the software d
         - [Adapter](#adapter)
         - [Façade](#façade)
         - [Proxy (Substitute)](#proxy-substitute)
-        - [Repository](#repository)
     - [Usage](#usage)
     - [Contributing](#contributing)
     - [License](#license)
@@ -84,11 +83,6 @@ The Façade pattern provides a simplified interface to a group of sub-systems.
 ### Proxy (Substitute)
 
 The Proxy pattern provides a placeholder for another object to control access to it.
-
-### Repository
-
-The Repository pattern acts as a bridge between the application's business logic and data source, providing a way to access domain objects. Useful for decoupling business logic from data retrieval.
-
 
 ## Usage
 
